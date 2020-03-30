@@ -31,7 +31,7 @@ Print 2 buckles.
 
 Filtering material
 
-You find in the folder the contour suggested for a correct application in the mask system.
+You find a PDF "instructions" with all the steps you need to follow to hack and apply a microfiber vaccum bag in this repository.
 There are a lot of different materials on the market, some of them have certificate, others don’t.
 Some are just enough for a simple use when going for shopping. Others are mandatory when you are in high risk situation.
-My Idea was to create a system where we can use different ones without specific limitations, thickness apart; As I designed 0.4 mm of air gap between the frames, I don’t think it may work with materials too thick.
+My Idea was to create a system where we can use different ones without specific limitations, thickness apart; I designed 0.4 mm of air gap between the frames, which works with the vacuum bags (generic ones) I tested.
